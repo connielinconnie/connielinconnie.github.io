@@ -1,0 +1,40 @@
+p,h2 {
+  color: red;
+    width: 500px;
+    border: 1px dotted black;
+    text-shadow:yes;
+}
+
+li {
+  color: blue;
+  background-color: #00539F;
+    
+   
+}
+
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Roboto', sans-serif;
+    background-color: #000000;
+
+}
+
+body {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0px 20px 0px 50px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 120px 20px;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px yellow;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
